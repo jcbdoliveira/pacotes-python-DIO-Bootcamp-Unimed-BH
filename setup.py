@@ -14,7 +14,7 @@ setup(
     description="Determina seu signo com base na sua data de nascimento",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/jcbdoliveira/pacotes-python-DIO-Bootcamp-Unimed-BH"
+    url="https://github.com/jcbdoliveira/pacotes-python-DIO-Bootcamp-Unimed-BH",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
